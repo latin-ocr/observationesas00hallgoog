@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesas00hallgoog_0304.png"; bbox 0 0 4242 7292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 272 1380 1805 1611">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 272 1380 1805 1611">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 1380 1272 1491; baseline 0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 308 1398 399 1491; x_wconf 78' lang='lat'>298</span> <span class='ocrx_word' id='word_1_2' title='bbox 829 1380 1272 1471; x_wconf 65' lang='lat' dir='ltr'><strong>Inoni.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 272 1552 1805 1611; baseline -0.016 13"><span class='ocrx_word' id='word_1_3' title='bbox 272 1552 1805 1611; x_wconf 53' lang='lat' dir='ltr'>-ma</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 307 3212 1345 3322">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 307 3212 1345 3322">
+     <span class='ocr_line' id='line_1_3' title="bbox 307 3212 1345 3322; baseline 0.002 -27"><span class='ocrx_word' id='word_1_4' title='bbox 307 3250 379 3269; x_wconf 88' lang='lat'>·-</span> <span class='ocrx_word' id='word_1_5' title='bbox 454 3226 580 3322; x_wconf 74' lang='lat'>1738</span> <span class='ocrx_word' id='word_1_6' title='bbox 619 3212 744 3304; x_wconf 82' lang='lat' dir='ltr'>Febr</span> <span class='ocrx_word' id='word_1_7' title='bbox 795 3214 856 3299; x_wconf 79' lang='lat'>26</span> <span class='ocrx_word' id='word_1_8' title='bbox 928 3258 1008 3285; x_wconf 87' lang='lat'>-.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1138 3253 1209 3271; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_10' title='bbox 1276 3212 1345 3297; x_wconf 61' lang='lat'>⁶8</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 307 3355 1380 3581">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 307 3355 1365 3581">
+     <span class='ocr_line' id='line_1_4' title="bbox 307 3355 1365 3464; baseline -0.003 -20"><span class='ocrx_word' id='word_1_11' title='bbox 307 3355 727 3464; x_wconf 58' lang='lat' dir='ltr'><strong>——Majz</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 832 3379 998 3437; x_wconf 79' lang='lat'>1-</span> <span class='ocrx_word' id='word_1_13' title='bbox 1135 3372 1365 3451; x_wconf 69' lang='grc' dir='ltr'>-γῐψ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 307 3492 1380 3581; baseline -0.005 0"><span class='ocrx_word' id='word_1_14' title='bbox 307 3528 378 3548; x_wconf 89' lang='grc'>·-</span> <span class='ocrx_word' id='word_1_15' title='bbox 446 3494 739 3581; x_wconf 84' lang='lat' dir='ltr'><strong>-·-N0v</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 794 3492 855 3577; x_wconf 83' lang='lat'>26</span> <span class='ocrx_word' id='word_1_17' title='bbox 928 3537 997 3555; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_18' title='bbox 1136 3506 1380 3576; x_wconf 52' lang='grc' dir='ltr'>-αϊ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2126 7284">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2126 7284">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2126 7284; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 2126 7284; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
